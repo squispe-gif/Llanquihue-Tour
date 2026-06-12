@@ -1,0 +1,7 @@
+Tour Volcán Osorno;lacustre;25000
+Ruta Gastronómica Llanquihue;gastronomico;18000
+Excursión Isla Huar;cultural;30000
+Paseo Lacustre Frutillar;lacustre;15000
+Tour Cultural Puerto Octay;cultural;12000
+Ruta del Salmón;gastronomico;22000
+Circuito Lago Llanquihue;lacustre;35000
