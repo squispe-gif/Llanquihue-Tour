@@ -48,4 +48,4 @@ java -cp out ui.Main
 
 ## Autor
 
-**Satcha** — DUOC UC, PRY2202
+**Satcha Quispe Parada** — DUOC UC
